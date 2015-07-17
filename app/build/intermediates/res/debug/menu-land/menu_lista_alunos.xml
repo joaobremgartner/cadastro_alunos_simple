@@ -1,0 +1,26 @@
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".ListaAlunosActivity">
+
+    <item
+        android:icon="@mipmap/ic_share"
+        android:id="@+id/share"
+        android:title="compartilhar"
+        android:orderInCategory="100"
+        app:showAsAction="always" />
+    <item
+        android:icon="@mipmap/ic_enviar"
+        android:id="@+id/enviar"
+        android:title="Enviar notas"
+        android:orderInCategory="200"
+        app:showAsAction="always"/>
+    <item
+        android:icon="@mipmap/ic_receber"
+        android:id="@+id/receber"
+        android:title="Receber"
+        android:orderInCategory="300"
+        app:showAsAction="always"/>
+
+</menu><!-- From: file:/Users/joaofaro/AndroidStudioProjects/Cadastro/app/src/main/res/menu-land/menu_lista_alunos.xml -->

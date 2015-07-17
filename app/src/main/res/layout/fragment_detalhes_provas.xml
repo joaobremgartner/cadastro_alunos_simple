@@ -1,0 +1,36 @@
+<android.support.v7.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TableRow
+            android:background="#00A8EC"
+            android:padding="20dp">
+
+            <TextView
+                android:id="@+id/detalhe_prova_materia"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:textColor="#FFF" />
+
+            <TextView
+                android:id="@+id/detalhe_prova_data"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:textColor="#FFF" />
+        </TableRow>
+
+        <ListView
+            android:id="@+id/detalhe_prova_topicos"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+    </TableLayout>
+</android.support.v7.widget.CardView>

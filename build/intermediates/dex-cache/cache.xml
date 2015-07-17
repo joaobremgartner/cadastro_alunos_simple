@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/joaofaro/AndroidStudioProjects/Cadastro/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
+        <dex dex="/Users/joaofaro/AndroidStudioProjects/Cadastro/app/build/intermediates/pre-dexed/debug/classes-a747a5376951f038a45432696f68ff337d3b5c82.jar" />
+    </item>
+    <item
+        jar="/Users/joaofaro/AndroidStudioProjects/Cadastro/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/joaofaro/AndroidStudioProjects/Cadastro/app/build/intermediates/pre-dexed/debug/classes-d11ccc553a0ac9a1e8cdb1be60f5526247ae5bca.jar" />
+    </item>
+    <item
+        jar="/Users/joaofaro/AndroidStudioProjects/Cadastro/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/joaofaro/AndroidStudioProjects/Cadastro/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-8e36b6652fe4eccfa9ed27bf327e9f2947db3752.jar" />
+    </item>
+    <item
+        jar="/Users/joaofaro/AndroidStudioProjects/Cadastro/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
+        <dex dex="/Users/joaofaro/AndroidStudioProjects/Cadastro/app/build/intermediates/pre-dexed/debug/classes-5619836e32098ea7d9b35503e4d6cb7f3666c80a.jar" />
+    </item>
+    <item
+        jar="/Users/joaofaro/AndroidStudioProjects/Cadastro/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="/Users/joaofaro/AndroidStudioProjects/Cadastro/app/build/intermediates/pre-dexed/debug/classes-144802028cd825de9b1a2b9efd3a4c9f1b87065f.jar" />
+    </item>
+    <item
+        jar="/Users/joaofaro/AndroidStudioProjects/Cadastro/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4796f18d3750bf2bfa078407a94a7f9db35b440d">
+        <dex dex="/Users/joaofaro/AndroidStudioProjects/Cadastro/app/build/intermediates/pre-dexed/debug/classes-d52754021a785d0720aabd8311c13d29d8f45ce8.jar" />
+    </item>
+    <item
+        jar="/Users/joaofaro/AndroidStudioProjects/Cadastro/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
+        <dex dex="/Users/joaofaro/AndroidStudioProjects/Cadastro/app/build/intermediates/pre-dexed/debug/classes-0db82f5e735f9469a6d8b77aa5fe27e9c6ef4d9d.jar" />
+    </item>
+    <item
+        jar="/Users/joaofaro/AndroidStudioProjects/Cadastro/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="/Users/joaofaro/AndroidStudioProjects/Cadastro/app/build/intermediates/pre-dexed/debug/classes-d201694494b39edbb5dcaeb687baa68a6cf1337e.jar" />
+    </item>
+    <item
+        jar="/Users/joaofaro/AndroidStudioProjects/Cadastro/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
+        <dex dex="/Users/joaofaro/AndroidStudioProjects/Cadastro/app/build/intermediates/pre-dexed/debug/classes-dd424343ea4acf2d2daa34e429fbc6b58abe774b.jar" />
+    </item>
+    <item
+        jar="/Users/joaofaro/AndroidStudioProjects/Cadastro/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="/Users/joaofaro/AndroidStudioProjects/Cadastro/app/build/intermediates/pre-dexed/debug/classes-65f66d24db4e2c189490ec466c11634cc4cea2f0.jar" />
+    </item>
+    <item
+        jar="/Users/joaofaro/AndroidStudioProjects/Cadastro/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
+        <dex dex="/Users/joaofaro/AndroidStudioProjects/Cadastro/app/build/intermediates/pre-dexed/debug/classes-e780c087584475f95424d5802ffbca1df368e711.jar" />
+    </item>
+    <item
+        jar="/Users/joaofaro/AndroidStudioProjects/Cadastro/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
+        <dex dex="/Users/joaofaro/AndroidStudioProjects/Cadastro/app/build/intermediates/pre-dexed/debug/classes-5106f22a41336165befafad561d057aa9f5087d3.jar" />
+    </item>
+    <item
+        jar="/Users/joaofaro/AndroidStudioProjects/Cadastro/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="97f7e239e86ef994de894818fdd8a71d2e89d6aa">
+        <dex dex="/Users/joaofaro/AndroidStudioProjects/Cadastro/app/build/intermediates/pre-dexed/debug/classes-1b78791c3ca0fb5d798a2b1ecb629e619da2b9c6.jar" />
+    </item>
+    <item
+        jar="/Users/joaofaro/AndroidStudioProjects/Cadastro/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="/Users/joaofaro/AndroidStudioProjects/Cadastro/app/build/intermediates/pre-dexed/debug/classes-90e4acd5a71ddafeffd137a9ff85855b02f930be.jar" />
+    </item>
+    <item
+        jar="/Users/joaofaro/AndroidStudioProjects/Cadastro/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
+        <dex dex="/Users/joaofaro/AndroidStudioProjects/Cadastro/app/build/intermediates/pre-dexed/debug/classes-591506455d08e9981997ab353dbacaf2d87a30ad.jar" />
+    </item>
+    <item
+        jar="/Users/joaofaro/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/joaofaro/AndroidStudioProjects/Cadastro/app/build/intermediates/pre-dexed/debug/library-2.4.0-4f658e735866f1789e80d63ffcb08ce289ae15a3.jar" />
+    </item>
+    <item
+        jar="/Users/joaofaro/AndroidStudioProjects/Cadastro/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/joaofaro/AndroidStudioProjects/Cadastro/app/build/intermediates/pre-dexed/debug/classes-eef1bae7d0c7ad837314468c3868e2b2fd42ec8b.jar" />
+    </item>
+    <item
+        jar="/Users/joaofaro/AndroidStudioProjects/Cadastro/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
+        <dex dex="/Users/joaofaro/AndroidStudioProjects/Cadastro/app/build/intermediates/pre-dexed/debug/classes-b7a73cc368a08ee7b71da1b1f42b4deb59be7f04.jar" />
+    </item>
+    <item
+        jar="/Users/joaofaro/AndroidStudioProjects/Cadastro/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
+        <dex dex="/Users/joaofaro/AndroidStudioProjects/Cadastro/app/build/intermediates/pre-dexed/debug/classes-2abd163b331f2dfdec67b4a7dc28b215ee90ec16.jar" />
+    </item>
+    <item
+        jar="/Users/joaofaro/AndroidStudioProjects/Cadastro/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="/Users/joaofaro/AndroidStudioProjects/Cadastro/app/build/intermediates/pre-dexed/debug/classes-465ca29d8c9201d02f17ad2fe556eccb561527a3.jar" />
+    </item>
+    <item
+        jar="/Volumes/ENGJOAOFARO/SDK/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/joaofaro/AndroidStudioProjects/Cadastro/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-59a709b21fd64e4054ca536e5081fde85d5ae26b.jar" />
+    </item>
+    <item
+        jar="/Users/joaofaro/AndroidStudioProjects/Cadastro/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d405025c600055237c171a0bbabaa49d69696573">
+        <dex dex="/Users/joaofaro/AndroidStudioProjects/Cadastro/app/build/intermediates/pre-dexed/debug/classes-2675d7b43d7797ea53356155e5fc29c6dbac835e.jar" />
+    </item>
+    <item
+        jar="/Users/joaofaro/AndroidStudioProjects/Cadastro/app/build/intermediates/exploded-aar/com.melnykov/floatingactionbutton/1.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="65620ba5e576dcec2c86efa440b00d042a27383b">
+        <dex dex="/Users/joaofaro/AndroidStudioProjects/Cadastro/app/build/intermediates/pre-dexed/debug/classes-3c1a86b2d2ebbe3f820d16504d82a1ce7ff8ee2f.jar" />
+    </item>
+    <item
+        jar="/Users/joaofaro/AndroidStudioProjects/Cadastro/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="/Users/joaofaro/AndroidStudioProjects/Cadastro/app/build/intermediates/pre-dexed/debug/classes-1bff25f1a50c8c337189107ced2688692765c9ca.jar" />
+    </item>
+    <item
+        jar="/Users/joaofaro/AndroidStudioProjects/Cadastro/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
+        <dex dex="/Users/joaofaro/AndroidStudioProjects/Cadastro/app/build/intermediates/pre-dexed/debug/classes-603c4d579e7ec2b63c86fb3a39fc2f66d6418fa7.jar" />
+    </item>
+    <item
+        jar="/Users/joaofaro/AndroidStudioProjects/Cadastro/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
+        <dex dex="/Users/joaofaro/AndroidStudioProjects/Cadastro/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-1a43b2181802a2ed39633446b4216c60827495d7.jar" />
+    </item>
+    <item
+        jar="/Users/joaofaro/AndroidStudioProjects/Cadastro/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
+        <dex dex="/Users/joaofaro/AndroidStudioProjects/Cadastro/app/build/intermediates/pre-dexed/debug/classes-2ffd59381334ffc1203c2fd93db00a65630a60f2.jar" />
+    </item>
+    <item
+        jar="/Users/joaofaro/AndroidStudioProjects/Cadastro/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
+        <dex dex="/Users/joaofaro/AndroidStudioProjects/Cadastro/app/build/intermediates/pre-dexed/debug/classes-cb796fe43e36c300d435fb4d289b65de42cbf815.jar" />
+    </item>
+    <item
+        jar="/Users/joaofaro/AndroidStudioProjects/Cadastro/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
+        <dex dex="/Users/joaofaro/AndroidStudioProjects/Cadastro/app/build/intermediates/pre-dexed/debug/classes-7796476ee1fe18d643fc744c76e2af7280bcec45.jar" />
+    </item>
+    <item
+        jar="/Users/joaofaro/AndroidStudioProjects/Cadastro/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
+        <dex dex="/Users/joaofaro/AndroidStudioProjects/Cadastro/app/build/intermediates/pre-dexed/debug/classes-7f15e7eba4f67171d7f246cae5b9b060d550cf7a.jar" />
+    </item>
+
+</items>

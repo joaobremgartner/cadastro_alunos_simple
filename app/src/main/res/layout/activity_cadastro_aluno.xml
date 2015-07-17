@@ -1,0 +1,99 @@
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="br.com.caelum.cadastro.DAO.CadastroAluno">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="235dp">
+
+            <ImageView
+                android:background="#00A8EC"
+                android:src="@mipmap/ic_no_image"
+                android:id="@+id/formulario_imagem"
+                android:layout_width="match_parent"
+                android:layout_height="200dp" />
+            <Button
+                android:background="@drawable/botao_tirarfoto"
+                android:textColor="#FFFFFF"
+                android:textSize="20sp"
+                android:gravity="center"
+                android:elevation="5dp"
+                android:layout_marginBottom="5dp"
+                android:layout_marginRight="20dp"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentBottom="true"
+                android:id="@+id/formulario_botaoTirarFoto"
+                android:layout_width="56dp"
+                android:layout_height="56dp" />
+        </RelativeLayout>
+
+        <TextView
+            android:textSize="30sp"
+            android:text="Formulário"
+            android:id="@+id/tituloForm"
+            android:layout_gravity="center_horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:text="Nome"
+            android:id="@+id/campoNome"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <EditText
+            android:id="@+id/nomeEdit"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Digite seu nome"/>
+        <TextView
+            android:text="Telefone"
+            android:id="@+id/campoTelefone"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <EditText
+            android:id="@+id/telEdit"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Digite seu telefone"/>
+        <TextView
+            android:text="Endereço"
+            android:id="@+id/campoEndereco"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <EditText
+            android:id="@+id/enderecoEdit"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Digite seu endereço"/>
+        <TextView
+            android:text="Site"
+            android:id="@+id/campoSite"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <EditText
+            android:id="@+id/siteEdit"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Digite seu site"/>
+        <RatingBar
+            android:numStars="5"
+            android:layout_marginBottom="10dp"
+            android:layout_gravity="center_horizontal"
+            android:id="@+id/rating"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <Button
+            android:id="@+id/botao_salvar"
+            android:text="Salvar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+</ScrollView>
